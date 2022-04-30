@@ -1,10 +1,10 @@
 1.  When a browser connects to a web server to retrieve a document, what default TCP/IP port is used?
 
-80 - ✔
-119
-142
-420
-25
+80 - ✔ \
+119 \
+142 \
+420 \
+25 \
 
 
 2.  When a browser connects to a web server to retrieve a document, what command is sent to the server?
